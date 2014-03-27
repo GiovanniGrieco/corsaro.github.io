@@ -24,9 +24,9 @@ Kaskio is a social file-sharing web platform. You'll be able to request files, u
 		- You have to know these programming languages:
 			- PHP
 		- Hack (optional)
-			- JavaScript (with jQuery)
-			- HTML
-			- SCSS (only for front-end developers)
+		- JavaScript (with jQuery)
+		- HTML
+		- SCSS (only for front-end developers)
 		- Basic linux server management skills
 		
 	You have no skills and only want to wait until it is released for the public? You can subscribe for the newsletter on Kaskio's public website [here](http://www.filewant.com) (yeah, FileWant is the public alias for this project).

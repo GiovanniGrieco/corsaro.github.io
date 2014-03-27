@@ -23,7 +23,7 @@ Kaskio is a social file-sharing web platform. You'll be able to request files, u
 
 		- You have to know these programming languages:
 			- PHP
-			- Hack (optional)
+		- Hack (optional)
 			- JavaScript (with jQuery)
 			- HTML
 			- SCSS (only for front-end developers)

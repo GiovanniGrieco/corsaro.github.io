@@ -29,7 +29,8 @@ Kaskio is a social file-sharing web platform. You'll be able to request files, u
 		- SCSS (only for front-end developers)
 		- Basic linux server management skills
 		
-	You have no skills and only want to wait until it is released for the public? You can subscribe for the newsletter on Kaskio's public website [here](http://www.filewant.com) (yeah, FileWant is the public alias for this project).
+
+	Do you have no skills and do you only want to wait until it is released for the public? You can subscribe for the newsletter on Kaskio's public website [here](http://www.filewant.com) (yeah, FileWant is the public alias for this project).
 
 * #### Tapher
 Tapher is a PHP-CLI application that helps users to resolve big data tables written in ASCII and convert them into SQL statements. It's simple to use, it uses 2048kb of RAM, it also can manage big txt files (>50GB) and requires only PHP installed on your machine. Currently, it has no GUI and can only convert CSV-like ASCII tables (like Adobe-leaked SQL tables).

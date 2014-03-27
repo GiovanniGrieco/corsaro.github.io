@@ -1,46 +1,35 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Welcome
+tagline: to my blog! 
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+### My FOSS projects
+You can view all my FOSS projects on my GitHub profiles.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+* #### Italian Calculator for MikeOS
+Do you like MikeOS? I translated for you CALC.BAS file in Italian, so you can explore it and I translated all the comments in the source code, so you can also study it with easy!
 
-## Update Author Attributes
+	You can see about my project on its GitHub project page [here](https://github.com/corsaroquad/Italian-Calculator-for-MikeOS).
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+---
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+### Other Projects
+There are softwares currently in development but they haven't a complete core yet. They are hidden from the public, but you can help me on the development by sending me an email. Of course they will be avaiable publicly on GitHub when I finish them.
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+* #### Kaskio Web Platform
+Kaskio is a social file-sharing web platform. You'll be able to request files, upload them, create collections, manage the visibility of them and much more. It's social because you can unlock achievements, talk with other users and feel like you are in a big community, all of this under the best anonymity policies of the web and with clean, transparent code that will be visible to everyone. Kaskio will be something big, an insane amount of ideas are in development and I couldn't write them all  here. If you want to join in the development, you can freely send me and email! But, firstly, check if you have the right skills to work with us under below!
 
-    $ rm -rf _posts/core-samples
+		- You have to know these programming languages:
+			- PHP
+			- Hack (optional)
+			- JavaScript (with jQuery)
+			- HTML
+			- SCSS (only for front-end developers)
+		- Basic linux server management skills
+		
+	You have no skills and only want to wait until it is released for the public? You can subscribe for the newsletter on Kaskio's public website [here](http://www.filewant.com) (yeah, FileWant is the public alias for this project).
 
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+* #### Tapher
+Tapher is a PHP-CLI application that helps users to resolve big data tables written in ASCII and convert them into SQL statements. It's simple to use, it uses 2048kb of RAM, it also can manage big txt files (>50GB) and requires only PHP installed on your machine. Currently, it has no GUI and can only convert CSV-like ASCII tables (like Adobe-leaked SQL tables).

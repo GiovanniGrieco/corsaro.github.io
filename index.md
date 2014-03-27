@@ -6,7 +6,7 @@ tagline: to my blog!
 {% include JB/setup %}
 
 ### My FOSS projects
-You can view all my FOSS projects on my GitHub profiles.
+You can view all my FOSS projects on my GitHub profile.
 
 * #### Italian Calculator for MikeOS
 Do you like MikeOS? I translated for you CALC.BAS file in Italian, so you can explore it and I translated all the comments in the source code, so you can also study it with easy!

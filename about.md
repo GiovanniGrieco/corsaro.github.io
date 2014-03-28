@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "define(ME);"
+title: "define('me');"
 description: "A short description of me"
 ---
 {% include JB/setup %}

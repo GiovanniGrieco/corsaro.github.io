@@ -36,4 +36,4 @@ Kaskio is a social file-sharing web platform. You'll be able to request files, u
 Tapher is a PHP-CLI application that helps users to resolve big data tables written in ASCII and convert them into SQL statements. It's simple to use, it uses 2048kb of RAM, it also can manage big txt files (>50GB) and requires only PHP installed on your machine. Currently, it has no GUI and can only convert CSV-like ASCII tables.
 
 ### What's next?
-Sometime I feel like an enlightened man with so many ideas on how to innovate our world and our being, but I don't have so much time to develop them. I'm a good dreamer and I like working in team, so you could freely request me some help on a project. You can see all my programming skills at my about page on this site, so check it out if you want! :-)
+Sometime I feel like an enlightened man with so many ideas on how to innovate our world and our being, but I don't have so much time to develop them. I'm a good dreamer and I like working in team, so you could freely request me some help on a project. You can see all my programming skills at my [about page](./about) on this site, so check it out if you want! :-)

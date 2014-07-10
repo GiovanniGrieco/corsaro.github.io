@@ -8,6 +8,9 @@ tagline: to my blog!
 ### My FOSS projects
 You can view all my FOSS projects on my GitHub profile.
 
+* #### Ackermann Test
+This simple program runs a short Ackermann test. More information about Ackermann's function [here](http://en.wikipedia.org/wiki/Ackermann_function). Inspired by [this](https://www.youtube.com/watch?v=i7sm9dzFtEI&list=UU9-y-6csu5WGm29I7JiwpnA) Computerphile video. Source credits goes to Professor Brailsford for sharing his invaluable knowledge with us on some Computerphile's YouTube videos.
+
 * #### Italian Calculator for MikeOS
 Do you like MikeOS? I translated for you CALC.BAS file in Italian, so you can explore it and I translated all the comments in the source code, so you can also study it with easy!
 

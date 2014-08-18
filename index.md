@@ -6,7 +6,7 @@ tagline: to my blog!
 {% include JB/setup %}
 
 ### My FOSS projects
-You can view all my FOSS projects on my GitHub profile.
+You can view all my FOSS projects on my [GitHub](https://github.com/corsaroquad) profile.
 
 * #### Grid.
 A simple game concept. This "game" is still in development but it will be a Terminal-based engine where I will develop a very poetical game based on a fiction story of a computer researcher, Gary. This is my first C++ project (yay!).
@@ -16,8 +16,6 @@ This simple program runs a short Ackermann test. More information about Ackerman
 
 * #### Italian Calculator for MikeOS
 Do you like MikeOS? I translated for you CALC.BAS file in Italian, so you can explore it and I translated all the comments in the source code, so you can also study it with easy!
-
-You can see about my project on its GitHub project page [here](https://github.com/corsaroquad/Italian-Calculator-for-MikeOS).
 
 ---
 

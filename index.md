@@ -17,7 +17,7 @@ This simple program runs a short Ackermann test. More information about Ackerman
 * #### Italian Calculator for MikeOS
 Do you like MikeOS? I translated for you CALC.BAS file in Italian, so you can explore it and I translated all the comments in the source code, so you can also study it with easy!
 
-	You can see about my project on its GitHub project page [here](https://github.com/corsaroquad/Italian-Calculator-for-MikeOS).
+You can see about my project on its GitHub project page [here](https://github.com/corsaroquad/Italian-Calculator-for-MikeOS).
 
 ---
 
@@ -29,10 +29,10 @@ Kaskio is a social file-sharing web platform. You'll be able to request files, u
 
 		- You have to know these programming languages:
 			- PHP
-		- Hack (optional)
-		- JavaScript (with jQuery)
-		- HTML
-		- SCSS (only for front-end developers)
+			- Hack (optional)
+			- JavaScript (with jQuery)
+			- HTML
+			- SCSS (only for front-end developers)
 		- Basic linux server management skills
 		
 * #### Numbers

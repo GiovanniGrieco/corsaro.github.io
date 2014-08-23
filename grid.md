@@ -17,3 +17,14 @@ You can test it and notify me for every bug at my [email](mailto:giovanni.grc96@
 Version | Codename | Date | OS X | Linux | Windows
 --- | --- | --- | --- | --- | ---
 0.0.0.10 | dev_10 | 23/08/2014 | [Download](https://www.dropbox.com/s/talag83bh1m9s2m/grid-osx?dl=0) | Coming soon | Coming soon
+
+markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML, :tables => true)
+
+text = <<END
+| header 1 | header 2 |
+| -------- | -------- |
+| cell 1   | cell 2   |
+| cell 3   | cell 4   |
+END
+
+puts markdown.render(text)

@@ -14,6 +14,6 @@ You can test it and notify me for every bug at my [email](mailto:giovanni.grc96@
 
 ### Downloads
 
-* Version: dev_10 (0.0.0.10)
-	
-	[OS X](https://www.dropbox.com/s/talag83bh1m9s2m/grid-osx?dl=0)
+* Version: dev_10 (0.0.0.10) - 23/08/2014
+
+[OS X](https://www.dropbox.com/s/talag83bh1m9s2m/grid-osx?dl=0)

@@ -1,5 +1,5 @@
 # Change the markdown interpreter to Kramdown
-markdown: kramdown
+markdown: redcarpet
 
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/

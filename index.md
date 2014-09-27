@@ -17,7 +17,7 @@ Do you like MikeOS? I translated for you CALC.BAS file in Italian, so you can ex
 ---
 
 ### Other Projects
-These software have a proprietary license. If you want to contribute, send your resumé on my [email](mailto:giovanni.grc96@gmail.com).
+These software have a proprietary license. If you want to contribute, send your resumé at my [email](mailto:giovanni.grc96@gmail.com).
 
 * #### Siria
 A state-of-the-art AI that helps you via common IM-apps such WhatsApp, Telegram etc. More information [here](https://bitbucket.org/corsaroquad/siria-for-whatsapp/wiki/Home)

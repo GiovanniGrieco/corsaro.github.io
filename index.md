@@ -17,13 +17,13 @@ Do you like MikeOS? I translated for you CALC.BAS file in Italian, so you can ex
 ---
 
 ### Other Projects
-There are softwares currently in development but they haven't a complete core yet. They are hidden from the public, but you can help me on the development by sending me an email. Of course they will be avaiable publicly on GitHub when I finish them.
+These software have a proprietary license. If you want to contribute, send your resumé on my [email](mailto:giovanni.grc96@gmail.com).
 
 * #### Siria
 A state-of-the-art AI that helps you via common IM-apps such WhatsApp, Telegram etc. More information [here](https://bitbucket.org/corsaroquad/siria-for-whatsapp/wiki/Home)
 
 * #### Image Loader (for PrestaShop)
-A module for the popular e-commerce software based on PHP. This module helps you to load a single image and associate multiple products to it easily. Coming *very* soon on PrestaShop addons!
+A module for the popular e-commerce software based on PHP. This module helps you to load a single image and associate multiple products to it easily. Coming **very** soon on PrestaShop addons!
 
 * #### Grid.
 A simple terminal-based game engine. More info and download [here](./grid)

@@ -7,7 +7,7 @@ description: "A short description of myself"
 
 Giovanni Grieco (most used aliases on the net: *corsaro*, *corsaroquad*) is a young software programmer, born in 1996 in Bari, Italy. He's a great dreamer, [try-to-be] a poet, a full of inspiration man and a very sentimental one. He wants to revolutionise the world one day with technology, to improve human being and its lifestyle.
 
-On the *real world* he's the typical *good [crazy  and foolish] guy*. He attends the scientific lyceum (no guys, I study Latin, not I.T.), he loves friendships, falling in love and writes poetry, lots of poetries. He is also recently discovering the good sides of reading... with an iPad (thanks to the iPad I've started reading (I hate books!)). He also loves exploration.
+On the *real world* he's the typical *good [crazy  and foolish] guy*. He attends the scientific lyceum (no guys, I study Latin, not I.T.), he loves friendships, falling in love and writing poetry, lots of poetries. He also loves exploration.
 
 On the *virtual world* he's known as *corsaro*.
 

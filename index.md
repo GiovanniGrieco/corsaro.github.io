@@ -20,7 +20,7 @@ Do you like MikeOS? I translated for you CALC.BAS file in Italian, so you can ex
 These softwares have a proprietary license. If you want to contribute or download it, contact me at my [email](mailto:giovanni.grc96@gmail.com).
 
 * #### Bing Wallpaper
-An OS X utility that downloads the latest picture from Bing and sets it as desktop wallpaper. The main focus is its simplicity and efficiency. This is my first project written entirely in Objective-C. __NOTE: Bing Wallpaper is NOT affiliated in any way to Microsoft Corp.__
+An OS X utility that downloads the latest picture from Bing and sets it as desktop wallpaper. The main focus is its simplicity and efficiency. This is my first project written entirely in Objective-C. _NOTE: Bing Wallpaper is NOT affiliated in any way to Microsoft Corp._
 
 * #### Siria
 A bot that helps you via common IM-apps such WhatsApp, Telegram etc.
